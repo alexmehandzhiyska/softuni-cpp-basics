@@ -15,8 +15,6 @@ int main()
 
 	if (minutes < 10)
 	{
-		cout << hours << endl;
-		cout << minutes << endl;
 		cout << hours << ":0" << minutes << endl;
 	}
 	else
